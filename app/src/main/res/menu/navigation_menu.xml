@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single" android:id="@+id/group1">
+        <item android:title="my_account" />
+        <item android:title="cart" />
+        <item android:title="Your Order" />
+        <item android:title="Favourites" />
+        <item android:title="Wallet" />
+        <item android:title="Discounts" />
+        <item android:title="Notification" />
+    </group>
+
+
+    <group android:checkableBehavior="single" android:id="@+id/group2">
+        <item android:title="Rate us" />
+        <item android:title="Terms &amp; comdition" />
+        <item android:title="Help &amp; Support" />
+        <item android:title="Settings" />
+    </group>
+</menu>

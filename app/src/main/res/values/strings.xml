@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GroceryAdda</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="my_account">My Account</string>
+    <string name="openDrawar">openDrawer</string>
+    <string name="closeDrawar">closeDrawar</string>
+    <string name="register1">Login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
